@@ -31,7 +31,7 @@ function greet_Function() {//Naming function
 
 function city_Function() {//Naming function
     City=document.getElementById("City").value;//Getting "City" variable name from input
-    if (City="Seattle") {
+    if (City=="Seattle") {
         School="You can go to school here";//If you live in this city, you can go to school in this district
     }
     else {
