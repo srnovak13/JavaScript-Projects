@@ -12,6 +12,11 @@
     display:none;
 }
 
+img {
+    height: 600px;
+    width: 400px;
+}
+
 /**NEXT AND PREVIOUS BUTTONS**/
 .prev, .next {
     cursor: pointer;
@@ -41,8 +46,9 @@
 
 /**CAPTION TEXT**/
 .text {
-    color: #f2f2f2;
-    font-size: 15px;
+    color: #242020f1;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 8px 12px;
     position: absolute;
     bottom: 8px;
