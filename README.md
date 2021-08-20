@@ -1,5 +1,5 @@
 # JavaScript Projects
- These are some small JavaScript Projects I made for the Tech Academy
+ Projects created with JavaScript for the Tech Academy
  
  ## Projects
  
